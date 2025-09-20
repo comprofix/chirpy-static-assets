@@ -13,7 +13,7 @@ Add the following to your site's `config.toml` or `hugo.toml`:
 ```toml
 [module]
   [[module.imports]]
-    path = "github.com/comprofix/chirpy-hugo-assets"
+    path = "github.com/geekifan/chirpy-hugo-assets"
 ```
 
 Then run:
@@ -96,10 +96,10 @@ This script copies the necessary files from `node_modules` to the Hugo assets fo
 | [Font Awesome Free](https://www.jsdelivr.com/package/npm/@fortawesome/fontawesome-free)       |   `7.0.0` |
 | [GLightbox](https://www.jsdelivr.com/package/npm/glightbox)                                   |   `3.3.1` |
 | [Lazysizes](https://www.jsdelivr.com/package/npm/lazysizes)                                   |   `5.3.2` |
-| [Mermaid](https://www.jsdelivr.com/package/npm/mermaid)                                       |  `11.10.1` |
+| [Mermaid](https://www.jsdelivr.com/package/npm/mermaid)                                       |  `11.10.1`|
 | [Tocbot](https://www.jsdelivr.com/package/npm/tocbot)                                         |  `4.36.4` |
 | [Lato Font](https://www.jsdelivr.com/package/npm/lato-font)                                   |   `3.0.0` |
-| [Source Sans Pro](https://www.jsdelivr.com/package/npm/source-sans-pro)                       |   `3.6.0` |
+| [Source Sans](https://www.jsdelivr.com/package/npm/source-sans)                               |   `3.6.0` |
 
 ---
 
